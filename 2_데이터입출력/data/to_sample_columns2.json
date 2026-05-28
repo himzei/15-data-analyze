@@ -1,0 +1,5 @@
+{
+  "algol": { "jerry": "A*", "Riah": "A+", "Paul": "B" },
+  "basic": { "jerry": "C", "Riah": "B", "Paul": "B+" },
+  "c++": { "jerry": "B+", "Riah": "C", "Paul": "C+" }
+}
